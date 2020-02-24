@@ -1,0 +1,5 @@
+Credentials cache: API:F8168058-4840-4507-8F77-FA844893CD84
+        Principal: aadoue@42.FR
+
+  Issued                Expires             Flags    Principal
+Feb  3 17:37:15 2020  Feb 10 17:37:06 2020  FPIA   krbtgt/42.FR@42.FR
