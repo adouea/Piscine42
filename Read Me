@@ -3,3 +3,4 @@ Each folder contains a day of exercises in coding\n
 Folder 00 and 01 contain shell exercises\n
 Folder 02 to 08 contain C language exercises. Almost all of them are recreating in C language the computer basis functions, as atoi, split, join, cmp, cat...\n
 Folders Rush contains group exercises, still in C language.\n
+Atoi Prog Folder contains an integration of my atoi function in a program\n
